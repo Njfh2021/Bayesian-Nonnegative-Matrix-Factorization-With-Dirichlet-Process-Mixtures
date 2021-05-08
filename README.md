@@ -1,0 +1,1 @@
+This is the code for my paper Bayesian nonnegative matrix factorization with Dirichlet process mixtures published on IEEE Transactions on Signal Processing. bnmf_vb_ARD_EMG.py is the main function of the Bayesian model to infer the latent variables and parameters. The link to the original paper:https://ieeexplore.ieee.org/document/9121775
